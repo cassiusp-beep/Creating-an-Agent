@@ -1,2 +1,8 @@
 .vercel
 .env*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*.crt
